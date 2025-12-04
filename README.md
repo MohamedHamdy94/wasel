@@ -1,5 +1,7 @@
 # Project: "Link" - Full-Stack Equipment Rental & Services Platform
 
+**Live Site: [https://wasell.vercel.app/](https://wasell.vercel.app/)**
+
 ### Project Summary
 
 Developed a comprehensive, full-stack web application, "Link," to serve the heavy equipment industry. The platform functions as a two-sided marketplace, enabling equipment owners to list their assets for rent and allowing contractors or clients to easily find and book them. The application also includes a service directory for specialized drivers, creating a one-stop solution for project needs. The entire platform is built on a modern, scalable architecture using Next.js and Firebase.
@@ -66,6 +68,8 @@ Developed a comprehensive, full-stack web application, "Link," to serve the heav
 ---
 
 # مشروع: "Link" - منصة متكاملة لتأجير المعدات والخدمات
+
+**رابط الموقع: [https://wasell.vercel.app/](https://wasell.vercel.app/)**
 
 ### ملخص المشروع
 
